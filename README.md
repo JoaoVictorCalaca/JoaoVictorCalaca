@@ -36,4 +36,4 @@
 
 ## Sobre mim
 
-Atualmente estou fazendo o curso técnico de informática para internet integrado ao ensino médio no IF Goiano Campus Trindade.
+Atualmente cursando técnico em informática para internet integrado ao ensino médio no IF Goiano Campus Trindade.
