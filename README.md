@@ -1,9 +1,11 @@
 
 # Olá! 👋🏽
 
+Seja bem vindo ao meu perfil do Github!
+
 ## Sobre mim
 
-Atualmente cursando Engenharia da Computação no IF Goiano Campus Trindade, também sou técnico em Informática para Internet no mesmo Instituto desde 2024.
+Atualmente cursando Engenharia da Computação no IF Goiano Campus Trindade, também sou técnico em Informática para Internet no mesmo Instituto desde 2024 e desenvolvedor Front-end, Back-end e mobile.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jv_calaca?igsh=MWN3MnBnYWlpMGhweg==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaovictorcalaca)
