@@ -36,4 +36,4 @@
 
 ## Sobre mim
 
-Atualmente cursando técnico em informática para internet integrado ao ensino médio no IF Goiano Campus Trindade.
+Atualmente cursando Engenharia da Computação no IF Goiano Campus Trindade, também sou técnico em Informática para Internet no mesmo Instituto desde 2024.
