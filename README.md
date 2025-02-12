@@ -1,17 +1,22 @@
 
 # Olá! 👋🏽
 
+## Sobre mim
+
+Atualmente cursando Engenharia da Computação no IF Goiano Campus Trindade, também sou técnico em Informática para Internet no mesmo Instituto desde 2024.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jv_calaca?igsh=MWN3MnBnYWlpMGhweg==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaovictorcalaca)
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoVictorCalaca&show_icons=true&theme=transparent)
 
 ## Meus melhores projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoVictorCalaca&repo=daily-advice)](https://github.com/joaoVictorCalaca/daily-advice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoVictorCalaca&repo=cinelog)](https://github.com/JoaoVictorCalaca/cinelog)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoVictorCalaca&repo=js-run)](https://github.com/joaoVictorCalaca/js-run)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoVictorCalaca&repo=quick-browse-mobile)](https://github.com/joaoVictorCalaca/quick-browse-mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoVictorCalaca&repo=app-quiz-biomas)]([https://github.com/joaoVictorCalaca/quick-browse-mobile](https://github.com/JoaoVictorCalaca/app-quiz-biomas))
 
 ## Linguagens mais usadas
 
@@ -33,7 +38,3 @@
     <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
-
-## Sobre mim
-
-Atualmente cursando Engenharia da Computação no IF Goiano Campus Trindade, também sou técnico em Informática para Internet no mesmo Instituto desde 2024.
